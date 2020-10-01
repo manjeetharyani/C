@@ -14,7 +14,7 @@ int main(){
 	for(i = 1; i < 10; i++){
 		multiplesof3 = 3 * 3;
 		multiplesof5 = 5 * 5;
-		printf("3: %d \t 5: %d\n", multiplesof3, multiplesof5);
+		printf("3: %d  \t 5: %d\n", multiplesof3, multiplesof5);
 	}
 
 }
